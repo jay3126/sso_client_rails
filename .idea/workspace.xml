@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cfc001-dc31-4404-b86b-024f6af3f824" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/rubycas.rb" afterPath="$PROJECT_DIR$/config/initializers/rubycas.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
     </list>
     <ignored path="rails_ruby_cas_client.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,6 +50,8 @@
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
+    <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155618326" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rubycas.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/initializers/rubycas.rb">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="41" selection-start="181" selection-end="181" vertical-scroll-proportion="0.15789473">
+            <state line="8" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.21052632">
               <folding />
             </state>
           </provider>
@@ -151,6 +146,8 @@
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/initializers/rubycas.rb" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -651,6 +648,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/rubycas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="41" selection-start="181" selection-end="181" vertical-scroll-proportion="0.15789473">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="3" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.0">
@@ -658,9 +662,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/rubycas.rb">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="181" selection-end="181" vertical-scroll-proportion="0.15789473">
+        <state line="8" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.21052632">
           <folding />
         </state>
       </provider>
