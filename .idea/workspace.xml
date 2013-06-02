@@ -51,7 +51,7 @@
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
-    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157550171" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157883606" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/config/config.yml" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157736904" ignored="false" />
     <file path="/config.yml" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157627921" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,7 +91,16 @@
       <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="33" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
+            <state line="30" column="33" selection-start="1536" selection-end="1536" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rubycas.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/initializers/rubycas.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,7 +109,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="34" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.9192101">
+            <state line="68" column="8" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.89228004">
               <folding />
             </state>
           </provider>
@@ -147,8 +156,8 @@
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/config/initializers/rubycas.rb" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/config/initializers/rubycas.rb" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -664,23 +673,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/rubycas.rb">
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="181" selection-end="181" vertical-scroll-proportion="0.15789473">
+        <state line="30" column="33" selection-start="1536" selection-end="1536" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
+    <entry file="file://$PROJECT_DIR$/config/initializers/rubycas.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="33" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="185" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="34" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.9192101">
+        <state line="68" column="8" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.89228004">
           <folding />
         </state>
       </provider>

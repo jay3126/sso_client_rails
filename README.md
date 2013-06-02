@@ -54,3 +54,17 @@
 
 
 
+* Ruby CAS Client settings
+
+   - Create a file inside application.rb, I wrote ( as per ReadMe of the gem )
+
+   ```ruby
+       require 'casclient'
+       require 'casclient/frameworks/rails/filter'
+
+
+       # Where is the SSO server
+       CASClient::Frameworks::Rails::Filter.configure(
+         :cas_base_url => "http://127.0.0.1:8888"
+       )
+   ```
