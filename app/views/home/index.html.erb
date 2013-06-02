@@ -1,0 +1,7 @@
+<h1>Welcome</h1>
+<% if session[:cas_user] %>
+  Hello, <%= session[:cas_user] %>!<br />
+  <%= link_to("Logout", logout_path) %>
+<% else %>
+  <%= link_to("Login", CASClient::Frameworks::Rails::Filter.client.login_url) %>
+<% end %>
