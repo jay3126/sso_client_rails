@@ -47,11 +47,13 @@
     <file path="$PROJECT_DIR$/../rubycas-server/Gemfile" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370058103842" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/Rakefile" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370058053050" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/db/migrate/001_create_initial_structure.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370145357049" ignored="false" />
-    <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
+    <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157671222" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
-    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157384067" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157550171" ignored="false" />
+    <file path="$PROJECT_DIR$/../rubycas-server/config/config.yml" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157736904" ignored="false" />
+    <file path="/config.yml" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157627921" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +100,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="69" selection-start="677" selection-end="677" vertical-scroll-proportion="0.67324954">
+            <state line="50" column="34" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.9192101">
               <folding />
             </state>
           </provider>
@@ -678,7 +680,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="69" selection-start="677" selection-end="677" vertical-scroll-proportion="0.67324954">
+        <state line="50" column="34" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.9192101">
           <folding />
         </state>
       </provider>

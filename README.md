@@ -25,3 +25,32 @@
 
     Note: You have to create the user in the ruby cas server database
 
+* My Ruby Cas Server Settings are:
+
+    ```
+      server: webrick
+      port: 8888
+
+      database:
+        adapter: mysql2
+        database: casserver
+        username: root
+        password: pass
+        host: localhost
+        reconnect: true
+
+     authenticator:
+       class: CASServer::Authenticators::SQLEncrypted
+       database:
+         adapter:  mysql2
+         database: casserver
+         username: root
+         password: root
+         host: localhost
+         user_table: users
+         username_column: username
+
+    ```
+
+
+
