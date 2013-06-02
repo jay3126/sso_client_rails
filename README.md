@@ -68,3 +68,9 @@
          :cas_base_url => "http://127.0.0.1:8888"
        )
    ```
+
+* Finally Run the Rails app
+
+    ```
+        rails server -p3001
+    ```

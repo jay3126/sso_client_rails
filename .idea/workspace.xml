@@ -51,7 +51,7 @@
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
-    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157883606" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157947020" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/config/config.yml" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157736904" ignored="false" />
     <file path="/config.yml" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157627921" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,7 +109,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="8" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.89228004">
+            <state line="76" column="10" selection-start="1646" selection-end="1646" vertical-scroll-proportion="0.94614005">
               <folding />
             </state>
           </provider>
@@ -689,7 +689,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="8" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.89228004">
+        <state line="76" column="10" selection-start="1646" selection-end="1646" vertical-scroll-proportion="0.94614005">
           <folding />
         </state>
       </provider>
