@@ -51,7 +51,7 @@
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
-    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370156767963" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370156863373" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="3" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.0">
+            <state line="29" column="33" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="3" selection-start="187" selection-end="187" vertical-scroll-proportion="0.34210527">
+            <state line="15" column="73" selection-start="263" selection-end="263" vertical-scroll-proportion="0.39473686">
               <folding />
             </state>
           </provider>
@@ -196,6 +196,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rails_ruby_cas_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rails_ruby_cas_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rails_ruby_cas_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -657,14 +671,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="3" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.0">
+        <state line="29" column="33" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="187" selection-end="187" vertical-scroll-proportion="0.34210527">
+        <state line="15" column="73" selection-start="263" selection-end="263" vertical-scroll-proportion="0.39473686">
           <folding />
         </state>
       </provider>

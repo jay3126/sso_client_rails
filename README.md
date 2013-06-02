@@ -8,7 +8,10 @@
     git clone https://github.com/psahni/sso_client_rails.git
   ```
 
-* Install
+* Install:
 ```
     bundle install
 ```
+
+* I am using **[rubycas-client](https://github.com/rubycas/rubycas-client)**
+
