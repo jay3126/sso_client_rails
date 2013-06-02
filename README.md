@@ -15,5 +15,5 @@
 
 * I am using **[rubycas-client](https://github.com/rubycas/rubycas-client)** gem. Please Go through it
 
-* Rubycas client uses **[Ruby CAS Server](https://github.com/rubycas/rubycas-server), a very beautiful Sinatra application, Please Go through it
+* Rubycas client uses **[Ruby CAS Server](https://github.com/rubycas/rubycas-server)**, a very beautiful Sinatra application, Please Go through it
 
