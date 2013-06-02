@@ -51,7 +51,7 @@
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
-    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370156863373" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370157129732" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="73" selection-start="263" selection-end="263" vertical-scroll-proportion="0.39473686">
+            <state line="17" column="83" selection-start="377" selection-end="377" vertical-scroll-proportion="0.4473684">
               <folding />
             </state>
           </provider>
@@ -678,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="73" selection-start="263" selection-end="263" vertical-scroll-proportion="0.39473686">
+        <state line="17" column="83" selection-start="377" selection-end="377" vertical-scroll-proportion="0.4473684">
           <folding />
         </state>
       </provider>
