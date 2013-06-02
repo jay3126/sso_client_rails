@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cfc001-dc31-4404-b86b-024f6af3f824" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="rails_ruby_cas_client.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +51,7 @@
     <file path="$PROJECT_DIR$/../rubycas-server/lib/user.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370147906107" ignored="false" />
     <file path="$PROJECT_DIR$/../rubycas-server/lib/casserver/authenticators/sql_encrypted.rb" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370149278462" ignored="false" />
     <file path="/README" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155519771" ignored="false" />
-    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370155618326" ignored="false" />
+    <file path="/README.md" changelist="e9cfc001-dc31-4404-b86b-024f6af3f824" time="1370156767963" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.21052632">
+            <state line="13" column="3" selection-start="187" selection-end="187" vertical-scroll-proportion="0.34210527">
               <folding />
             </state>
           </provider>
@@ -664,7 +664,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.21052632">
+        <state line="13" column="3" selection-start="187" selection-end="187" vertical-scroll-proportion="0.34210527">
           <folding />
         </state>
       </provider>
